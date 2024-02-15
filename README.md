@@ -27,6 +27,7 @@ Each assignment is organized in its respective directory. To run an assignment:
    ```git clone https://github.com/your-username/intro-to-programming-assignments.git```
    
 2. Navigate to the specific assignment directory:
+   
 ```cd intro-to-programming-assignments/assignment1```
 
-3. Follow the instructions provided in the assignment pdf to execute the Java code.
+4. Follow the instructions provided in the assignment pdf to execute the Java code.
