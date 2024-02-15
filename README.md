@@ -28,6 +28,6 @@ Each assignment is organized in its respective directory. To run an assignment:
    
 2. Navigate to the specific assignment directory:
    
-```cd intro-to-programming-assignments/assignment1```
+   ```cd intro-to-programming-assignments/assignment1```
 
-4. Follow the instructions provided in the assignment pdf to execute the Java code.
+3. Follow the instructions provided in the assignment pdf to execute the Java code.
