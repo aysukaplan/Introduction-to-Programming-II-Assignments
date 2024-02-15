@@ -24,10 +24,10 @@ Each assignment is organized in its respective directory. To run an assignment:
 
 1. Clone this repository to your local machine:
    
-   ```git clone https://github.com/your-username/intro-to-programming-assignments.git```
+   ```git clone https://github.com/aysu-kaplan/Introduction-to-Programming-II-Assignments.git```
    
 2. Navigate to the specific assignment directory:
    
-   ```cd intro-to-programming-assignments/assignment1```
+   ```cd Introduction-to-Programming-II-Assignments/Assignment1```
 
 3. Follow the instructions provided in the assignment pdf to execute the Java code.
